@@ -42,7 +42,3 @@ IR 센서 값의 조합에 따라 다음 행동을 결정합니다.
 ---
 ## 3. 듀얼 초음파 센서 측정 테스트
 <img width="634" height="529" alt="image" src="https://github.com/user-attachments/assets/042074c4-e1fe-4fb5-9f0c-cd87493d230f" />
-
-        Motor_Forward();
-    }
-}
